@@ -5,7 +5,7 @@ Copy this template to `cc-lab-YOUR_ID/lab2/README.md` in your own repository. Fo
 - **Student name: Nget Darapich**
 - **Student ID: e20221646**
 - **Learner Lab user name: voclabs/user5622976=NGET_DARAPICH**
-- **Date completed:**
+- **Date completed: 30, October, 2026**
 
 ---
 
